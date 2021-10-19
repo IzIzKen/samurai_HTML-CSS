@@ -1,0 +1,11 @@
+@charset "uft-8";
+
+/*body {
+    background-image: url("hoge.png");
+    background-repeat: no-repeat;
+}*/
+
+#responsive-img {
+    height: auto;
+    width: 80vw;
+}

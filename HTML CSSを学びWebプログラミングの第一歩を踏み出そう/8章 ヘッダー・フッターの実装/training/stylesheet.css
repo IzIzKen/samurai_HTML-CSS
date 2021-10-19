@@ -1,0 +1,18 @@
+#header {
+    background-color: red;
+    position: fixed;
+}
+
+#footer {
+    background-color: blue;
+    position: fixed;
+    bottom: 0px;
+}
+        
+.size {
+    height: 1000px;
+    background-color: yellow;
+    top: 45px;
+    position: relative;
+    /*padding-top: 45px;*/
+}

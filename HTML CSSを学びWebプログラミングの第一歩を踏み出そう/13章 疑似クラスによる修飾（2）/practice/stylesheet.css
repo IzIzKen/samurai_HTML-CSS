@@ -1,0 +1,11 @@
+h1:first-child {
+    background-color: yellow;
+}
+
+:root {
+    background-color: red;
+}
+
+div:empty {
+    background-color: white;
+}
